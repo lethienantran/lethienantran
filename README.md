@@ -1,6 +1,6 @@
 👋 Hi there, I'm @lethienantran (Le Thien An Tran)
 
-- :computer: I'm interested in software and game dev, currently working on Down The Castle!
+- :computer: I'm interested in software and game dev, currently working on the beginning Down The Castle!
 - :mortar_board: I’m currently participating in Bachelor's Degree in Computer Science
 - 🔭 I’m open to any challenging opportunity
 - 🥅 My 2022 - 2023 goals: Get A Software Engineer Internship 
