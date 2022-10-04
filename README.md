@@ -9,8 +9,8 @@
 
 <h3><strong>FIND ME AT:</strong></h3>
 <p>
-<a href ="https://instagram.com/vok.wildde"> 
-<img src="https://i.pinimg.com/originals/c2/81/8c/c2818c6d5d111f61846fbc878bc51b5e.png" width = "30" height="25"> 
+<a href ="https:/https://www.instagram.com/wildemakegames/"> 
+<img src="https://www.pngkey.com/png/full/873-8736940_instagram-icon-facebook-icon-facebook-instagram-pinterest-logo.png" width = "25" height="25"> 
 </a>
 <a href="https://https://www.linkedin.com/in/le-thien-an-tran/">
 <img src ="https://www.huiledivine.com/wp-content/uploads/2014/12/linkedin.png" height = "25" width="25">
