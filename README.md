@@ -3,7 +3,7 @@
 - :computer: I'm interested in software and game dev, currently working on the beginning Down The Castle!
 - :mortar_board: I’m currently participating in Bachelor's Degree in Computer Science
 - 🔭 I’m open to any challenge and exciting opportunity, 
-- 🥅 My 2022 - 2023 goals: Get A Software Engineer Internship 
+- 🥅 My 2023 - 2024 goals: Become a proactive and hard-working Software Engineer
 - 📫 How to reach me: lethienantran@gmail.com, https://https://www.linkedin.com/in/le-thien-an-tran/
 - ⚡ Fun fact: I like basketball, and have a twin brother!.
 
