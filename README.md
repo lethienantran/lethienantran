@@ -1,12 +1,13 @@
 👋 Hi there, I'm @lethienantran (Le Thien An Tran)
 
-- :computer: I'm interested in software and game dev, currently working on the beginning Down The Castle!
-- :mortar_board: I’m currently participating in Bachelor's Degree in Computer Science
+- :computer: I'm interested in software development. My current project is Chef's Compass!
+- :mortar_board: I’m currently participating in Bachelor's Degree in Computer Science. I'm graduating June 2024.
 - 🔭 I’m open to any challenge and exciting opportunity, 
-- 🥅 My 2023 - 2024 goals: Become a proactive and hard-working Software Engineer
+- 🥅 My 2024 goals: Become a proactive and hard-working Software Engineer
 - 📫 How to reach me: lethienantran@gmail.com, https://https://www.linkedin.com/in/le-thien-an-tran/
 - ⚡ Fun fact: I like basketball, and have a twin brother!.
 
+Check out [my portfolio](https://lethienantran.netlify.app/).
 <h3><strong>FIND ME AT:</strong></h3>
 <p>
 <a href ="https:/https://www.instagram.com/wildemakegames/"> 
